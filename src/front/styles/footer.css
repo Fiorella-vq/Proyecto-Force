@@ -1,0 +1,22 @@
+.footer {
+    padding: 20px;
+    background-color: black;
+    color: #F2E5D5;
+    text-align: center;
+  }
+  .footer-title {
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+  }
+
+  
+  
+  
+  
